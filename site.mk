@@ -1,7 +1,7 @@
 GLUON_SITE_PACKAGES := \
 	ffpb-ebtables-net-rules \
 	gluon-alfred \
-	gluon-announced \
+	gluon-respondd\
 	gluon-autoupdater \
 	gluon-config-mode-autoupdater \
 	gluon-config-mode-contact-info \
@@ -19,7 +19,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-next-node \
 	gluon-mesh-batman-adv-14 \
 	gluon-mesh-vpn-fastd \
-	gluon-radvd \
+	uradvd \
 	gluon-status-page \
 	gluon-setup-mode \
 	haveged \
