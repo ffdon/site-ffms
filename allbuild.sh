@@ -12,8 +12,6 @@
 #  
 ###############################################################################################
 
-letzterBefehlErfolgreich;
-
 git checkout Domäne-01;
 letzterBefehlErfolgreich;
 sh ./build.sh $1 $2 domaene01 $3 $4 $5 $6 $7 $8 $9;
