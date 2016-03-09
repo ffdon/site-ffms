@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 # 
 ###############################################################################################
 # 
-# Dieses Script holt f¸hrt den build f¸r alle aktuelle Dom‰nen aus 
+# Dieses Script holt f√ºhrt den build f√ºr alle aktuelle Dom√§nen aus 
 # uns erstellt die Images.
 #
 # Das Script ben√∂tigt die folgenden Kommandozeilenparameter:
@@ -12,19 +12,19 @@
 #  
 ###############################################################################################
 
-git checkout Dom‰ne-01;
+git checkout Dom√§ne-01;
 #sh ./build.sh $1 $2 domaene01 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-02;
+#git checkout Dom√§ne-02;
 #sh ./build.sh $1 $2 domaene02 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-03;
+#git checkout Dom√§ne-03;
 #sh ./build.sh $1 $2 domaene03 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-04;
+#git checkout Dom√§ne-04;
 #sh ./build.sh $1 $2 domaene04 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-05;
+#git checkout Dom√§ne-05;
 #sh ./build.sh $1 $2 domaene05 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-06;
+#git checkout Dom√§ne-06;
 #sh ./build.sh $1 $2 domaene06 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-07-L2TP;
+#git checkout Dom√§ne-07-L2TP;
 #sh ./build.sh $1 $2 domaene07 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Dom‰ne-08;
+#git checkout Dom√§ne-08;
 #sh ./build.sh $1 $2 domaene08 $3 $4 $5 $6 $7 $8 $9;
