@@ -13,18 +13,18 @@
 ###############################################################################################
 
 git checkout Domäne-01;
-#sh ./build.sh $1 $2 domaene01 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-02;
-#sh ./build.sh $1 $2 domaene02 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-03;
-#sh ./build.sh $1 $2 domaene03 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-04;
-#sh ./build.sh $1 $2 domaene04 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-05;
-#sh ./build.sh $1 $2 domaene05 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-06;
-#sh ./build.sh $1 $2 domaene06 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-07-L2TP;
-#sh ./build.sh $1 $2 domaene07 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-08;
-#sh ./build.sh $1 $2 domaene08 $3 $4 $5 $6 $7 $8 $9;
+sh ./build.sh $1 $2 domaene01 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-02;
+sh ./build.sh $1 $2 domaene02 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-03;
+sh ./build.sh $1 $2 domaene03 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-04;
+sh ./build.sh $1 $2 domaene04 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-05;
+sh ./build.sh $1 $2 domaene05 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-06;
+sh ./build.sh $1 $2 domaene06 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-07-L2TP;
+sh ./build.sh $1 $2 domaene07 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-08;
+sh ./build.sh $1 $2 domaene08 $3 $4 $5 $6 $7 $8 $9;
