@@ -24,3 +24,11 @@ git checkout Domäne-07-L2TP
 git cherry-pick $1
 git checkout Domäne-08
 git cherry-pick $1
+git checkout Domäne-09
+git cherry-pick $1
+git checkout Domäne-10
+git cherry-pick $1
+git checkout Domäne-11
+git cherry-pick $1
+git checkout Domäne-12
+git cherry-pick $1
