@@ -34,3 +34,5 @@ git checkout Domäne-10;
 sh ./build.sh $1 $2 domaene10 $3 $4 $5 $6 $7 $8 $9;
 git checkout Domäne-11;
 sh ./build.sh $1 $2 domaene11 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-12;
+sh ./build.sh $1 $2 domaene12 $3 $4 $5 $6 $7 $8 $9;
