@@ -16,8 +16,8 @@
 #sh ./build.sh $1 $2 domaene01 $3 $4 $5 $6 $7 $8 $9;
 #git checkout Domäne-02;
 #sh ./build.sh $1 $2 domaene02 $3 $4 $5 $6 $7 $8 $9;
-#git checkout Domäne-03;
-#sh ./build.sh $1 $2 domaene03 $3 $4 $5 $6 $7 $8 $9;
+git checkout Domäne-03;
+sh ./build.sh $1 $2 domaene03 $3 $4 $5 $6 $7 $8 $9;
 #git checkout Domäne-04;
 #sh ./build.sh $1 $2 domaene04 $3 $4 $5 $6 $7 $8 $9;
 #git checkout Domäne-05;
@@ -30,8 +30,8 @@
 #sh ./build.sh $1 $2 domaene08 $3 $4 $5 $6 $7 $8 $9;
 #git checkout Domäne-09;
 #sh ./build.sh $1 $2 domaene09 $3 $4 $5 $6 $7 $8 $9;
-git checkout Domäne-10;
-sh ./build.sh $1 $2 domaene10 $3 $4 $5 $6 $7 $8 $9;
+#git checkout Domäne-10;
+#sh ./build.sh $1 $2 domaene10 $3 $4 $5 $6 $7 $8 $9;
 #git checkout Domäne-11;
 #sh ./build.sh $1 $2 domaene11 $3 $4 $5 $6 $7 $8 $9;
 #git checkout Domäne-12;
